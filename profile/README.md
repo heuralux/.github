@@ -83,7 +83,7 @@ Curious where AI fits in your work? Let's take a bearing together.
 
 Have a real problem worth a smart tool? We'd like to hear about it.
 
-📧 **[heuralux@gmail.com](mailto:heuralux@gmail.com)**
+📧 **[admin@heuralux.onmicrosoft.com](mailto:admin@heuralux.onmicrosoft.com)**
 
 <br>
 
