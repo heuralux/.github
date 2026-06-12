@@ -18,7 +18,7 @@
 We build **smart tools to solve real problems**: practical, well-made software for
 people who have actual work to get done. Our north star is simple — take a
 dense, opaque problem and resolve it into a solution a person can understand at a
-glance and use with confidence. We'd rather ship one tool that's genuinely improves your life than ten that merely add noise and distraction.
+glance and use with confidence. We'd rather ship one tool that genuinely improves your life than ten that merely add noise and distraction.
 
 The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *light*. The age of AI is full of hype and shadows. We aim to cut through the noise to deliver helpful innovations.
 
