@@ -83,11 +83,11 @@ We build custom solutions that **judiciously put AI to work on real problems** â
 not brittle, flashy demos that impress initially and then stall in production,
 but systems that earn their place in your daily workflow.
 
-- **Find the high-value use case.** We separate the work AI should do from the
+- **Discernment.** We separate the work AI should do from the
   work it shouldn't, so you invest where it actually pays off.
-- **Build it for real.** Custom assistants, agents, and automations wired into
+- **Impact.** Custom assistants, agents, and automations wired into
   your tools and data â€” shipped, measured, and dependable.
-- **Make it legible.** We bring discipline to
+- **Trustworthiness.** We bring discipline to
   AI: clear behavior, honest limits, outputs a person can trust and act on.
 
 ### Education & training on AI
