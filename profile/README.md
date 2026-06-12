@@ -60,6 +60,25 @@ taking a heading. Discovery rendered as navigation.
 
 <br>
 
+## AI consulting — put AI to work for you
+
+The fastest way to a smart tool is often AI applied with judgment. We help teams
+**put AI to work on real problems** — not demos that impress in a meeting and
+stall in production, but systems that earn their place in your daily workflow.
+
+- **Find the high-value use case.** We separate the work AI should do from the
+  work it shouldn't, so you invest where it actually pays off.
+- **Build it for real.** Custom assistants, agents, and automations wired into
+  your tools and data — shipped, measured, and dependable.
+- **Make it legible.** We bring the same illuminate-don't-obscure discipline to
+  AI: clear behavior, honest limits, outputs a person can trust and act on.
+- **Bring your team along.** Practical guidance and guardrails so the capability
+  stays with you after we're done.
+
+Curious where AI fits in your work? Let's take a bearing together.
+
+<br>
+
 ## Get in touch
 
 Have a real problem worth a smart tool? We'd like to hear about it.
