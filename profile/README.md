@@ -15,29 +15,25 @@
 
 ## Hello — we're Heuralux
 
-We build **smart tools for real problems**: practical, well-made software for
+We build **smart tools to solve real problems**: practical, well-made software for
 people who have actual work to get done. Our north star is simple — take a
-dense, opaque problem and resolve it into something a person can read at a
-glance and act on with confidence. We'd rather ship one tool that's genuinely
-clear than ten that merely add features.
+dense, opaque problem and resolve it into a solution a person can understand at a
+glance and use with confidence. We'd rather ship one tool that's genuinely improves your life than ten that merely add noise and distraction.
 
-The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *light*.
-To illuminate is to understand.
+The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *light*. The age of AI is full of hype and shadows. We aim to cut through the noise to deliver helpful innovations.
 
 <br>
 
 ## What we believe
 
-> **Clarity is not the absence of complexity — it is its careful illumination.**
-
-That conviction shows up in everything we make:
+These convictions show up in everything we make:
 
 - **Precision over decoration.** Every element earns its place. Nothing is there
   to fill space; each detail is a calibrated signal.
 - **Craft as a feature.** The care is the product. We sweat the intervals, the
   alignment, the wording — the things people feel even when they can't name them.
-- **Discovery as navigation.** Good tools don't just answer a question; they
-  give you a bearing. We design for the moment the unknown becomes the known.
+- **Discovery as navigation.** Good tools don't just address today's needs; they
+  give you a bearing on the future. We design for the moment the unknown becomes known.
 
 <br>
 
@@ -49,10 +45,8 @@ That conviction shows up in everything we make:
 
 ## What we make
 
-Our work runs the full path from a sharp idea to a finished, dependable tool —
-software that's quietly opinionated about doing one thing exceptionally well,
-backed by a meticulously crafted brand and design system so everything we ship
-reads as one considered family.
+We build tools that help make complex, tedious things simpler with finished, dependable tools backed by a meticulously crafted brand and design system so everything we ship
+reads as one coherent family of products.
 
 The **Horizon Compass** above is our mark: seven bearings rising from a single
 horizon point — a book opening into light, a sun cresting a horizon, a compass
@@ -60,11 +54,11 @@ taking a heading. Discovery rendered as navigation.
 
 <br>
 
-## AI consulting — put AI to work for you
+## How we can help
 
-The fastest way to a smart tool is often AI applied with judgment. We help teams
-**put AI to work on real problems** — not demos that impress in a meeting and
-stall in production, but systems that earn their place in your daily workflow.
+We also offer consulting services to help put AI, machine learning, and data science to work for you.
+
+We build custom solutions that **judiciously put AI to work on real problems** — not brittle, flashy demos that impress initially and then stall in production, but systems that earn their place in your daily workflow.
 
 - **Find the high-value use case.** We separate the work AI should do from the
   work it shouldn't, so you invest where it actually pays off.
@@ -81,7 +75,7 @@ Curious where AI fits in your work? Let's take a bearing together.
 
 ## Get in touch
 
-Have a real problem worth a smart tool? We'd like to hear about it.
+Have a tough problem that needs a smart tool? We'd like to hear about it.
 
 📧 **[admin@heuralux.onmicrosoft.com](mailto:admin@heuralux.onmicrosoft.com)**
 
