@@ -45,7 +45,9 @@ These convictions show up in everything we make:
 
 ## What we make
 
-We build tools that help make complex, tedious things simpler with finished, dependable tools backed by a meticulously crafted brand and design system so everything we ship
+We build **tools for general use** — finished, dependable software anyone can
+pick up and put to work. We take complex, tedious things and make them simpler,
+backed by a meticulously crafted brand and design system so everything we ship
 reads as one coherent family of products.
 
 The **Horizon Compass** above is our mark: seven bearings rising from a single
@@ -56,9 +58,21 @@ taking a heading. Discovery rendered as navigation.
 
 ## How we can help
 
-We also offer consulting services to help put AI, machine learning, and data science to work for you.
+Beyond the tools we make for everyone, we work with you directly in three ways.
 
-We build custom solutions that **judiciously put AI to work on real problems** — not brittle, flashy demos that impress initially and then stall in production, but systems that earn their place in your daily workflow.
+### Tools for general use
+
+Ready-to-use software, built to the same standard as everything we ship:
+practical, well-made, and dependable from day one. No setup project required —
+just pick it up and get to work.
+
+### 1:1 consulting & design
+
+When an off-the-shelf tool isn't the right fit, we'll sit down with you and
+design a **right-sized tool** — no more and no less than the problem calls for.
+We build custom solutions that **judiciously put AI to work on real problems** —
+not brittle, flashy demos that impress initially and then stall in production,
+but systems that earn their place in your daily workflow.
 
 - **Find the high-value use case.** We separate the work AI should do from the
   work it shouldn't, so you invest where it actually pays off.
@@ -66,8 +80,13 @@ We build custom solutions that **judiciously put AI to work on real problems** �
   your tools and data — shipped, measured, and dependable.
 - **Make it legible.** We bring the same illuminate-don't-obscure discipline to
   AI: clear behavior, honest limits, outputs a person can trust and act on.
-- **Bring your team along.** Practical guidance and guardrails so the capability
-  stays with you after we're done.
+
+### Education & training on AI
+
+We help your team understand AI and use it well — practical, hands-on training
+and guidance grounded in real work, not hype. We bring you up to speed on what
+the tools can and can't do, and leave you with the guardrails and confidence to
+keep going after we're done.
 
 Curious where AI fits in your work? Let's take a bearing together.
 
