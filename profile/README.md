@@ -41,7 +41,7 @@ These convictions show up in everything we make:
 
 - **Precision over decoration.** Every element earns its place. Nothing is there
   to fill space; each detail is a considered.
-- **Craft as a feature.** The care is the product. We sweat the details — the intangibles you feel even when you can't name them.
+- **Craft as a feature.** Care in every product. We sweat the details — the intangibles you feel even when you can't name them.
 - **Discovery as navigation.** Good tools don't just address today's needs; they
   give you a bearing on the future.
 
