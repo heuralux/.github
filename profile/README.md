@@ -13,12 +13,23 @@
 
 <br>
 
-## Hello — we're Heuralux
+## Curious about AI?
 
-We build **smart tools to solve real problems**: practical, well-made software for
-people who have things that need to get done. Our north star is simple — take a
-dense, opaque problem and resolve it into a solution a person can understand at a
-glance and use with confidence. We'd rather ship one tool that genuinely improves your life than ten that merely add noise and distraction.
+**Wondering how AI could help grow your business? Curious whether it could save
+you time and money in your own day-to-day? Trying to work out what's real and
+what's just hype?**
+
+We can help.
+
+<br>
+
+## Who we are
+
+We're **Heuralux**, and we build **smart tools to solve real problems**:
+practical, well-made software for people who have things that need to get done.
+Our north star is simple — take a dense, opaque problem and resolve it into a
+solution a person can understand at a glance and use with confidence. We'd rather
+ship one tool that genuinely improves your life than ten that merely add noise and distraction.
 
 The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *light*. The age of AI is full of hype and shadows. We aim to cut through the noise to deliver helpful innovations.
 
