@@ -15,6 +15,8 @@
 
 ## Curious about AI?
 
+AI is the 21st century internal combustion engine. It is a general purpose tool that takes data as fuel and produces usable power. Just as combustion engines underpin modern technologies from lawnmowers to jet airplanes, the key with AI lies in developing the right harness to leverage this power for good.
+
 **Wondering how AI could help grow your business? Curious whether it could save
 you time and money in your own day-to-day? Trying to work out what's real and
 what's just hype?**
