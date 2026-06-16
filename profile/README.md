@@ -13,6 +13,22 @@
 
 <br>
 
+## Product samples
+
+A set of Claude cowork plugins, designed to help simplify your busy day to day. Click any one to explore it.
+
+<div align="center">
+
+<a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="145" alt="Daily Digest"></a>
+<a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="145" alt="Meal Planner"></a>
+<a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="145" alt="Newsletter"></a>
+<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="145" alt="Outfittr"></a>
+<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="145" alt="Activity Planner"></a>
+
+</div>
+
+<br>
+
 ## Curious about AI?
 
 AI is the 21st century internal combustion engine. It is a general purpose tool that takes data as fuel and produces usable power. Just as combustion engines underpin modern technologies from lawnmowers to jet airplanes, the key with AI lies in developing the right harness to leverage this power to achieve a goal.
