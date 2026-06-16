@@ -90,14 +90,14 @@ just pick it up and get to work.
 <br>
 <b><a href="https://github.com/heuralux/activity-planner">Activity Planner</a></b>
 <br>
-<sub>Local events, ranked to your taste — added to your calendar.</sub>
+<sub>Automatically finds events you'll like and books them on your calendar.</sub>
 </td>
 <td width="270" align="center" valign="top">
 <a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="250" alt="Daily Digest"></a>
 <br>
 <b><a href="https://github.com/heuralux/daily-digest">Daily Digest</a></b>
 <br>
-<sub>Your morning on one page: weather, outfit, meals, news.</sub>
+<sub>Weather, outfit, meals, and news gathered into one automatic morning brief.</sub>
 </td>
 </tr>
 </table>
@@ -109,21 +109,21 @@ just pick it up and get to work.
 <br>
 <b><a href="https://github.com/heuralux/meal-planner">Meal Planner</a></b>
 <br>
-<sub>A week of meals for your goals — shopping list done.</sub>
+<sub>Plans a week of meals to your goals and builds the shopping list for you.</sub>
 </td>
 <td width="270" align="center" valign="top">
 <a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="250" alt="Newsletter"></a>
 <br>
 <b><a href="https://github.com/heuralux/newsletter">Newsletter</a></b>
 <br>
-<sub>A curated, cited news brief, sized to the time you have.</sub>
+<sub>Delivers a curated, cited news brief automatically, sized to your time.</sub>
 </td>
 <td width="270" align="center" valign="top">
 <a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="250" alt="Outfittr"></a>
 <br>
 <b><a href="https://github.com/heuralux/outfittr">Outfittr</a></b>
 <br>
-<sub>Catalog your closet from a video; get outfits worth wearing.</sub>
+<sub>Catalogs your closet from one video and serves up outfits for you.</sub>
 </td>
 </tr>
 </table>
