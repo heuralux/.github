@@ -99,6 +99,11 @@ just pick it up and get to work.
 <br>
 <sub>Your morning on one page: weather, outfit, meals, news.</sub>
 </td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <td width="270" align="center" valign="top">
 <a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="250" alt="Meal Planner"></a>
 <br>
@@ -106,11 +111,6 @@ just pick it up and get to work.
 <br>
 <sub>A week of meals for your goals — shopping list done.</sub>
 </td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <td width="270" align="center" valign="top">
 <a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="250" alt="Newsletter"></a>
 <br>
