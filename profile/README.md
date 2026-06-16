@@ -19,15 +19,11 @@ A taste of what we ship: ready-to-use tools that quietly automate the everyday b
 
 <div align="center">
 
-<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="170" alt="Activity Planner"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="170" alt="Daily Digest"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="170" alt="Meal Planner"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="170" alt="Newsletter"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="170" alt="Outfittr"></a>
+<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="145" alt="Activity Planner"></a>
+<a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="145" alt="Daily Digest"></a>
+<a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="145" alt="Meal Planner"></a>
+<a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="145" alt="Newsletter"></a>
+<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="145" alt="Outfittr"></a>
 
 </div>
 
