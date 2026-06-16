@@ -21,41 +21,36 @@ A taste of what we ship: ready-to-use tools that quietly automate the everyday b
 
 <table align="center">
 <tr>
-<td width="270" align="center" valign="top">
-<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="250" alt="Activity Planner"></a>
+<td width="190" align="center" valign="top">
+<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="170" alt="Activity Planner"></a>
 <br>
 <b><a href="https://github.com/heuralux/activity-planner">Activity Planner</a></b>
 <br>
 <sub>Automatically finds events you'll like and books them on your calendar.</sub>
 </td>
-<td width="270" align="center" valign="top">
-<a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="250" alt="Daily Digest"></a>
+<td width="190" align="center" valign="top">
+<a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="170" alt="Daily Digest"></a>
 <br>
 <b><a href="https://github.com/heuralux/daily-digest">Daily Digest</a></b>
 <br>
 <sub>Weather, outfit, meals, and news gathered into one automatic morning brief.</sub>
 </td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="270" align="center" valign="top">
-<a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="250" alt="Meal Planner"></a>
+<td width="190" align="center" valign="top">
+<a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="170" alt="Meal Planner"></a>
 <br>
 <b><a href="https://github.com/heuralux/meal-planner">Meal Planner</a></b>
 <br>
 <sub>Plans a week of meals to your goals and builds the shopping list for you.</sub>
 </td>
-<td width="270" align="center" valign="top">
-<a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="250" alt="Newsletter"></a>
+<td width="190" align="center" valign="top">
+<a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="170" alt="Newsletter"></a>
 <br>
 <b><a href="https://github.com/heuralux/newsletter">Newsletter</a></b>
 <br>
 <sub>Delivers a curated, cited news brief automatically, sized to your time.</sub>
 </td>
-<td width="270" align="center" valign="top">
-<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="250" alt="Outfittr"></a>
+<td width="190" align="center" valign="top">
+<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="170" alt="Outfittr"></a>
 <br>
 <b><a href="https://github.com/heuralux/outfittr">Outfittr</a></b>
 <br>
