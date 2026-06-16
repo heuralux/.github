@@ -77,6 +77,59 @@ Ready-to-use software, built to the same standard as everything we ship:
 practical, well-made, and dependable from day one. No setup project required —
 just pick it up and get to work.
 
+<br>
+
+<div align="center">
+
+<sub><b>MEET THE TOOLS</b></sub>
+
+<table align="center">
+<tr>
+<td width="270" align="center" valign="top">
+<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="250" alt="Activity Planner"></a>
+<br>
+<b><a href="https://github.com/heuralux/activity-planner">Activity Planner</a></b>
+<br>
+<sub>Local events, ranked to your taste — added to your calendar.</sub>
+</td>
+<td width="270" align="center" valign="top">
+<a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="250" alt="Daily Digest"></a>
+<br>
+<b><a href="https://github.com/heuralux/daily-digest">Daily Digest</a></b>
+<br>
+<sub>Your morning on one page: weather, outfit, meals, news.</sub>
+</td>
+<td width="270" align="center" valign="top">
+<a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="250" alt="Meal Planner"></a>
+<br>
+<b><a href="https://github.com/heuralux/meal-planner">Meal Planner</a></b>
+<br>
+<sub>A week of meals for your goals — shopping list done.</sub>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="270" align="center" valign="top">
+<a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="250" alt="Newsletter"></a>
+<br>
+<b><a href="https://github.com/heuralux/newsletter">Newsletter</a></b>
+<br>
+<sub>A curated, cited news brief, sized to the time you have.</sub>
+</td>
+<td width="270" align="center" valign="top">
+<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="250" alt="Outfittr"></a>
+<br>
+<b><a href="https://github.com/heuralux/outfittr">Outfittr</a></b>
+<br>
+<sub>Catalog your closet from a video; get outfits worth wearing.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
 ### 1:1 consulting & design
 
 When an off-the-shelf tool isn't the right fit, we'll sit down with you and
