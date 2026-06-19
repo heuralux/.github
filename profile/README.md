@@ -51,6 +51,11 @@ ship one tool that genuinely improves your life than ten that merely add noise a
 
 The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *light*. The age of AI is full of hype and shadows. We aim to cut through the noise to deliver helpful innovations.
 
+Honestly, this all started because I couldn't find products that hit the
+sweet spot I was looking for — ones that respected my privacy and still let me
+automate the parts of my day worth automating. Sometimes if you want it done
+right, you have to do it yourself. So I did, and Heuralux grew out of that.
+
 <br>
 
 ## What we believe
@@ -80,6 +85,20 @@ backed by a meticulously crafted design system so everything we ship is a part o
 The **Horizon Compass** above is our mark: seven bearings rising from a single
 horizon point — a book opening into light, a sun cresting a horizon, a compass
 taking a heading. Discovery rendered as navigation.
+
+<br>
+
+## Privacy and autonomy, on your terms
+
+Privacy and autonomy aren't on/off switches — they sit on a spectrum, and you
+decide where you land. Connect and network as many of your accounts as you
+like, or none at all. Automate an entire workflow end to end, or just the one
+tedious part you're tired of doing by hand. Either way, you keep the controls.
+
+The goal is to right-size the tool to your comfort level and what you actually
+need — not to nudge you toward someone else's default. Start small, turn things
+on as you trust them, and dial it back any time. You shouldn't have to trade
+away your privacy to get the convenience, or give up control to get the help.
 
 <br>
 
