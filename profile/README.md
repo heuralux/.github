@@ -63,7 +63,7 @@ right, you have to do it yourself. So I did, and Heuralux grew out of that.
 These convictions show up in everything we make:
 
 - **Precision over decoration.** Every element earns its place. Nothing is there
-  to fill space; each detail is a considered.
+  to fill space; each detail is considered.
 - **Craft as a feature.** Care in every product. We sweat the details — the intangibles you feel even when you can't name them.
 - **Discovery as navigation.** Good tools don't just address today's needs; they
   give you a bearing on the future.
