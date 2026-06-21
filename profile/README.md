@@ -15,7 +15,7 @@
 
 ## Product samples
 
-A set of Claude cowork plugins, designed to help simplify your busy day to day. Click any one to explore it.
+A set of Claude Cowork plugins, designed to help simplify your busy day to day. Click any one to explore it.
 
 <div align="center">
 
@@ -33,6 +33,7 @@ A set of Claude cowork plugins, designed to help simplify your busy day to day. 
 
 AI is the 21st century internal combustion engine. It is a general purpose tool that takes data as fuel and produces usable power. Just as combustion engines underpin modern technologies from lawnmowers to jet airplanes, the key with AI lies in developing the right harness to leverage this power to achieve a goal.
 
+<!--
 **Wondering how AI could help grow your business? Curious whether it could save
 you time and money in your own day-to-day? Trying to work out what's real and
 what's just hype?**
@@ -48,13 +49,16 @@ practical, well-made software for people who have things that need to get done.
 Our north star is simple — take a dense, opaque problem and resolve it into a
 solution a person can understand at a glance and use with confidence. We'd rather
 ship one tool that genuinely improves your life than ten that merely add noise and distraction.
+-->
 
-The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *light*. The age of AI is full of hype and shadows. We aim to cut through the noise to deliver helpful innovations.
+## Who we are
 
-Honestly, this all started because I couldn't find products that hit the
+This all started because I couldn't find products that hit the
 sweet spot I was looking for — ones that respected my privacy and still let me
 automate the parts of my day worth automating. Sometimes if you want it done
 right, you have to do it yourself. So I did, and Heuralux grew out of that.
+
+The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *light*. The age of AI is full of hype and shadows. We aim to cut through the noise to deliver helpful innovations.
 
 <br>
 
@@ -62,13 +66,13 @@ right, you have to do it yourself. So I did, and Heuralux grew out of that.
 
 These convictions show up in everything we make:
 
-- **Precision over decoration.** Every element earns its place. Nothing is there
-  to fill space; each detail is considered.
-- **Craft as a feature.** Care in every product. We sweat the details — the intangibles you feel even when you can't name them.
-- **Discovery as navigation.** Good tools don't just address today's needs; they
-  give you a bearing on the future.
+- **Craftsmanship.** Care in every product. We sweat the details — the intangibles you feel even when you can't name them.
+- **No fluff.** Every element earns its place. Nothing is there to fill space; each detail is considered.
+- **Forward leaning.** Good tools don't just address today's needs; they give you a glimpse of future possibilities.
 
 <br>
+
+## What we make
 
 <div align="center">
 <img src="./assets/heuralux-compass.png" alt="Horizon Compass mark" width="120">
@@ -76,10 +80,7 @@ These convictions show up in everything we make:
 
 <br>
 
-## What we make
-
-We build **tools for general use** — easy-to-use, dependable software anyone can
-pick up and put to work. We take complex, tedious tasks and make them simpler,
+We build easy-to-use, dependable software anyone can pick up and put to work. We take complex, tedious tasks and make them simpler,
 backed by a meticulously crafted design system so everything we ship is a part of a coherent family of products.
 
 The **Horizon Compass** above is our mark: seven bearings rising from a single
@@ -91,20 +92,13 @@ taking a heading. Discovery rendered as navigation.
 ## Privacy and autonomy, on your terms
 
 Privacy and autonomy aren't on/off switches — they sit on a spectrum, and you
-decide where you land. Connect and network as many of your accounts as you
-like, or none at all. Automate an entire workflow end to end, or just the one
-tedious part you're tired of doing by hand. Either way, you keep the controls.
-
-The goal is to right-size the tool to your comfort level and what you actually
-need — not to nudge you toward someone else's default. Start small, turn things
-on as you trust them, and dial it back any time. You shouldn't have to trade
-away your privacy to get the convenience, or give up control to get the help.
+decide where you land. Our design philosphy allows you to connect as many of your other accounts or profiles as you like to our tools, or none at all. More connection enables more integrated and customized experiences, less connection maintains greater anonymity while still delivering something utility. Either way, you're in control and can right-size our tools to your comfort level.
 
 <br>
 
 ## How we can help
 
-Beyond the tools we make for everyone, we work with you directly in three ways.
+Beyond the open source tools we make for everyone, we can work with you directly in a few ways.
 
 ### Off-the-shelf solutions
 
