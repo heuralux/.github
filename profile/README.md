@@ -13,9 +13,9 @@
 
 <br>
 
-## Product samples
+## Open-Source Products
 
-A set of Claude Cowork plugins, designed to help simplify your busy day to day. Click any one to explore it.
+A set of Claude Cowork plugins, designed to help simplify your busy day-to-day which can integrate with, e.g., your Google calendars or mail if you let them. Click any one to explore it.
 
 <div align="center">
 
