@@ -51,6 +51,8 @@ solution a person can understand at a glance and use with confidence. We'd rathe
 ship one tool that genuinely improves your life than ten that merely add noise and distraction.
 -->
 
+<br>
+
 ## Who we are
 
 This all started because I couldn't find products that hit the
