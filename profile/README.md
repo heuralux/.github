@@ -55,7 +55,7 @@ ship one tool that genuinely improves your life than ten that merely add noise a
 
 ## Who We Are
 
-This all started because I couldn't find products that hit the
+This all started because I couldn't find AI products that hit the
 sweet spot I was looking for — ones that respected my privacy and still let me
 automate the parts of my day worth automating. Sometimes if you want it done
 right, you have to do it yourself. So I did, and Heuralux grew out of that.
@@ -82,7 +82,7 @@ These convictions show up in everything we make:
 
 <br>
 
-We build easy-to-use, dependable software anyone can pick up and put to work. We take complex, tedious tasks and make them simpler,
+We build easy-to-use, dependable AI tools anyone can pick up and put to work. We take complex, tedious tasks and make them simpler,
 backed by a meticulously crafted design system so everything we ship is a part of a coherent family of products.
 
 The **Horizon Compass** above is our mark: seven bearings rising from a single
