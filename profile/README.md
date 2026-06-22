@@ -53,7 +53,7 @@ ship one tool that genuinely improves your life than ten that merely add noise a
 
 <br>
 
-## Who we are
+## Who We Are
 
 This all started because I couldn't find products that hit the
 sweet spot I was looking for — ones that respected my privacy and still let me
@@ -64,7 +64,7 @@ The name says the rest: **HEURISKO** — *to discover* — and **LUX** — *ligh
 
 <br>
 
-## What we believe
+## What We Believe
 
 These convictions show up in everything we make:
 
@@ -74,7 +74,7 @@ These convictions show up in everything we make:
 
 <br>
 
-## What we make
+## What We Make
 
 <div align="center">
 <img src="./assets/heuralux-compass.png" alt="Horizon Compass mark" width="120">
@@ -91,16 +91,18 @@ taking a heading. Discovery rendered as navigation.
 
 <br>
 
-## Privacy and autonomy, on your terms
+## Privacy and Autonomy, on Your Terms
 
 Privacy and autonomy aren't on/off switches — they sit on a spectrum, and you
 decide where you land. Our design philosphy allows you to connect as many of your other accounts or profiles as you like to our tools, or none at all. More connection enables more integrated and customized experiences, less connection maintains greater anonymity while still delivering something utility. Either way, you're in control and can right-size our tools to your comfort level.
 
 <br>
 
-## How we can help
+## How We Can Help
 
 Beyond the open source tools we make for everyone, we can work with you directly in a few ways.
+
+<!-- See Commissions on Ko-Fi -->
 
 ### Off-the-shelf solutions
 
@@ -108,7 +110,7 @@ Ready-to-use software, built to the same standard as everything we ship:
 practical, well-made, and dependable from day one. No setup project required —
 just pick it up and get to work.
 
-### 1:1 consulting & design
+### 1:1 Consulting & Design
 
 When an off-the-shelf tool isn't the right fit, we'll sit down with you and
 design a **right-sized tool** — no more and no less than the problem calls for.
@@ -123,7 +125,7 @@ but systems that earn their place in your daily workflow.
 - **Trustworthiness.** We bring discipline to
   AI: clear behavior, honest limits, outputs a person can trust and act on.
 
-### Education & training on AI
+### Education & Training on AI
 
 We help your team understand AI and use it well — practical, hands-on training
 and guidance grounded in real work, not hype. We bring you up to speed on what
@@ -134,7 +136,7 @@ Curious where AI fits in your work? Let's talk.
 
 <br>
 
-## Get in touch
+## Get in Touch
 
 Have a tough problem that needs a soution? We'd like to hear about it.
 
