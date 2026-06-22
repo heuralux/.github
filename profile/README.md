@@ -15,7 +15,7 @@
 
 ## Open-Source Products
 
-A set of Claude Cowork plugins, designed to help simplify your busy day-to-day which can integrate with, e.g., your Google calendars or mail if you let them. Click any one to explore it.
+A set of Claude Cowork plugins, designed to help **simplify your busy day-to-day.** All you need is Cowork, optionally connected to you Google Calendar and Gmail. You can use these plugins independently or use Daily Digest to tie them all together. Click any one to explore more.
 
 <div align="center">
 
