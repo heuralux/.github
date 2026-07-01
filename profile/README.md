@@ -22,11 +22,11 @@ that genuinely helps — without the buzzwords or the AI you don't actually need
 
 <br>
 
-## What I can build for you
+## What We Do
 
-I work alongside people who know their field inside and out and turn that
-expertise into software that fits the way they actually work. You bring the
-deep knowledge of your business; I bring the modeling and engineering to make it
+We work alongside people who know their field inside and out and turn that
+expertise into computational tools that fit the way they actually work. You bring the
+deep knowledge of your business; we bring the modeling and engineering to make it
 useful. Together we scope the right-sized tool — no more, and no less than the
 problem calls for.
 
@@ -42,13 +42,13 @@ That might look like:
   isn't, and I'll tell you so.
 
 If you'd like to find out whether something is possible, or simply where to
-start, I'm glad to talk it through.
+start, we're glad to talk it through.
 
 <br>
 
 ## Open-source tools
 
-I also develop open-source tools — both to be useful and
+We also develop open-source tools — both to be useful and
 to keep exploring what's possible. These are early and still evolving, so treat
 them as works in progress rather than finished products.
 
@@ -73,7 +73,7 @@ them as works in progress rather than finished products.
 <br>
 
 I hold a PhD in Engineering, a Masters in Computational and Information Science, and have spent 15+ years building simulation,
-modeling, and machine-learning software — the kind of work that usually lives
+modeling, and machine-learning software for academics, the US federal government, and private industry — the kind of work that usually lives
 inside research labs and engineering teams. Much of that career has been spent
 translating complex, real-world problems into models and tools that people can
 put to use. Heuralux brings that same capability to a wider audience.
@@ -86,7 +86,7 @@ through it and deliver tools that genuinely help.
 
 ## Get in touch
 
-If there's a problem you think software might solve, I'd like to hear about it.
+If there's a problem you think software might solve, we'd like to hear about it.
 
 **[contact@heuralux.onmicrosoft.com](mailto:contact@heuralux.onmicrosoft.com)**
 
