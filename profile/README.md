@@ -72,7 +72,7 @@ them as works in progress rather than finished products.
 
 <br>
 
-I hold a PhD in Engineering, a masters in Computational and Information Science, and have spent 15+ years building simulation,
+I hold a PhD in Engineering, a Masters in Computational and Information Science, and have spent 15+ years building simulation,
 modeling, and machine-learning software — the kind of work that usually lives
 inside research labs and engineering teams. Much of that career has been spent
 translating complex, real-world problems into models and tools that people can
