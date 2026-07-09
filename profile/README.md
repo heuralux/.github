@@ -25,9 +25,8 @@ that genuinely helps — without the buzzwords or the AI you don't actually need
 ## What We Do
 
 We work alongside people who know their field inside and out and turn that
-expertise into computational tools that fit the way they actually work. You bring the
-deep knowledge of your business; we bring the modeling and engineering to make it
-useful. Together we scope the right-sized tool — no more, and no less than the
+expertise into computational tools that accelerate, simplify, and empower the way they actually work. You bring the
+deep knowledge of your business; we bring the modeling and engineering to amplify it. Together we scope the right-sized tool — no more, and no less than the
 problem calls for.
 
 That might look like:
