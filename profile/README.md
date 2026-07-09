@@ -73,10 +73,9 @@ them as works in progress rather than finished products.
 <br>
 
 I hold a PhD in Engineering, a Masters in Computational and Information Science, and have spent 15+ years building simulation,
-modeling, and machine-learning software for academics, the US federal government, and private industry — the kind of work that usually lives
+modeling, and machine-learning software for academics, the US federal government, international partners, and private industry — the kind of work that usually lives
 inside research labs and engineering teams. Much of that career has been spent
-translating complex, real-world problems into models and tools that people can
-put to use. Heuralux brings that same capability to a wider audience.
+translating cutting edge research into tools and models that solve complex, real-world problems people are facing. Heuralux brings that legacy to a wider audience.
 
 The name reflects the intent: **HEURISKO** — *to discover* — and **LUX** —
 *light*. Amid considerable hype and noise around AI, the goal is simply to cut
