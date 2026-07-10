@@ -66,10 +66,6 @@ them as works in progress rather than finished products.
 
 ## Background
 
-<div align="center">
-<img src="./assets/heuralux-compass.png" alt="Horizon Compass mark" width="120">
-</div>
-
 <br>
 
 I hold a PhD in Engineering, a Masters in Computational and Information Science, and have spent 15+ years building simulation,
@@ -82,6 +78,10 @@ The name reflects the intent: **HEURISKO** — *to discover* — and **LUX** —
 through it and deliver tools that genuinely help.
 
 <br>
+
+<div align="center">
+<img src="./assets/heuralux-compass.png" alt="Horizon Compass mark" width="120">
+</div>
 
 ## Get in touch
 
