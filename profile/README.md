@@ -58,6 +58,7 @@ them as works in progress rather than finished products.
 <a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="145" alt="Newsletter"></a>
 <a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="145" alt="Outfittr"></a>
 <a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="145" alt="Activity Planner"></a>
+<a href="https://github.com/heuralux/placard"><img src="./assets/ad-placard.png" width="145" alt="Placard"></a>
 <a href="https://github.com/heuralux/printwright"><img src="./assets/ad-printwright.png" width="145" alt="Printwright"></a>
 
 </div>
