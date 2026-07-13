@@ -15,10 +15,7 @@
 
 ## Welcome to Heuralux
 
-Heuralux provides practical AI, machine-learning, and data tools for the
-businesses and people who could use a sharp tool but don't have a software team
-on staff. The aim is straightforward: take a real problem and build something
-that genuinely helps — without the buzzwords or the AI you don't actually need.
+Heuralux builds practical AI, machine-learning, and data tools for businesses and people who need capable software but don’t have an engineering team. The goal is simple: take a real problem and build something that actually helps—no buzzwords, no AI for its own sake.
 
 <br>
 
