@@ -15,7 +15,7 @@
 
 ## Welcome to Heuralux
 
-Heuralux builds practical AI, machine-learning, and data tools for businesses and people who need capable software but don’t have an engineering team. The goal is simple: take a real problem and build something that actually helps—no buzzwords, no AI for its own sake.
+Heuralux builds practical AI, machine-learning, and data tools for businesses and people who need capable software but don’t have an engineering team. The goal is simple: take a real problem and build something that actually helps. No buzzwords, and no AI for its own sake.
 
 <br>
 
@@ -23,7 +23,7 @@ Heuralux builds practical AI, machine-learning, and data tools for businesses an
 
 We work alongside people who know their field inside and out and turn that
 expertise into computational tools that accelerate, simplify, and empower the way they actually work. You bring the
-deep knowledge of your business; we bring the modeling and engineering to amplify it. Together we scope the right-sized tool — no more, and no less than the
+deep knowledge of your business; we bring the modeling and engineering to amplify it. Together we scope the right-sized tool; no more, and no less than the
 problem calls for.
 
 That might look like:
