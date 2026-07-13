@@ -44,8 +44,8 @@ start, we're glad to talk it through.
 
 ## Open-source tools
 
-We also develop open-source tools — both to be useful and
-to keep exploring what's possible. These are early and still evolving, so treat
+We also develop open-source tools; both for the utility they provide and
+to keep exploring the art of the possible. These are early and still evolving, so treat
 them as works in progress rather than finished products.
 
 <div align="center">
