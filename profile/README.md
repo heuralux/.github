@@ -85,7 +85,7 @@ through it and deliver tools that genuinely help.
 
 If there's a problem you think software might solve, we'd like to hear about it.
 
-**[contact@heuralux.onmicrosoft.com](mailto:contact@heuralux.onmicrosoft.com)**
+**[contact@heuralux.org](mailto:contact@heuralux.org)**
 
 <br>
 
