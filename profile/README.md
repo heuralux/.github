@@ -91,6 +91,4 @@ If there's a problem you think software might solve, we'd like to hear about it.
 
 <div align="center">
 
-<sub>HEURALUX&nbsp;&nbsp;·&nbsp;&nbsp;<i>smart tools for real problems</i></sub>
-
 </div>
