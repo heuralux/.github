@@ -38,7 +38,7 @@ That might look like:
   isn't, and I'll tell you so.
 
 If you'd like to find out whether something is possible, or simply where to
-start, we're glad to talk it through.
+start, we're glad to talk it through. **[contact@heuralux.org](mailto:contact@heuralux.org)**
 
 <br>
 
@@ -83,9 +83,7 @@ through it and deliver tools that genuinely help.
 
 ## Get in touch
 
-If there's a problem you think software might solve, we'd like to hear about it.
-
-**[contact@heuralux.org](mailto:contact@heuralux.org)**
+If there's a problem you think software might solve, we'd like to hear about it! **[contact@heuralux.org](mailto:contact@heuralux.org)**
 
 <br>
 
