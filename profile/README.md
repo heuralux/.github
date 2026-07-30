@@ -15,13 +15,13 @@
 
 ## Welcome to Heuralux
 
-Heuralux builds practical AI, machine-learning, and data tools for businesses and people who need capable software but don’t have an engineering team. The goal is simple: take a real problem and build something that actually helps. No buzzwords, and no AI for its own sake.
+Heuralux builds practical AI, machine-learning, and data tools for people who need capable software but don’t have a software engineering team on call. The goal is simple: take a real problem and build something that actually helps. No buzzwords, and no AI for its own sake.
 
 <br>
 
 ## What We Do
 
-We work alongside people who know their field inside and out and turn that
+Heuralux works alongside people who know their field inside and out and turn that
 expertise into computational tools that accelerate, simplify, and empower the way they actually work. You bring the
 deep knowledge of your business; we bring the modeling and engineering to amplify it. Together we scope the right-sized tool; no more, and no less than the
 problem calls for.
@@ -35,10 +35,12 @@ That might look like:
 - **A small app or script** that turns hours of manual work into the press of a
   button.
 - **A clear assessment** of whether AI is the right fit at all — sometimes it
-  isn't, and I'll tell you so.
+  isn't, and we'll tell you so.
 
+<!--
 If you'd like to find out whether something is possible, or simply where to
 start, we're glad to talk it through. **[contact@heuralux.org](mailto:contact@heuralux.org)**
+-->
 
 <br>
 
@@ -66,14 +68,9 @@ them as works in progress rather than finished products.
 
 <br>
 
-I hold a PhD in Engineering, a Masters in Computational and Information Science, and have spent 15+ years building simulation,
-modeling, and machine-learning software for academics, the US federal government, international partners, and private industry — the kind of work that usually lives
-inside research labs and engineering teams. Much of that career has been spent
-translating cutting edge research into tools and models that solve complex, real-world problems people are facing. Heuralux brings that legacy to a wider audience.
+I hold a PhD in Engineering, a Masters in Computational and Information Science, and have spent 15+ years building simulation, modeling, and machine-learning software for academics, the US federal government, international partners, and private industry — the kind of work that usually lives inside research labs and engineering teams. Much of that career has been spent translating cutting edge research into tools and models that solve complex, real-world problems people are facing. Heuralux brings that legacy to a wider audience.
 
-The name reflects the intent: **HEURISKO** — *to discover* — and **LUX** —
-*light*. Amid considerable hype and noise around AI, the goal is simply to cut
-through it and deliver tools that genuinely help.
+The name reflects the intent: **HEURISKO** — *to discover* — and **LUX** — *light*. Amid considerable hype and noise around AI, the goal is simply to cut through it and deliver tools that genuinely help.
 
 <br>
 
@@ -81,9 +78,11 @@ through it and deliver tools that genuinely help.
 <img src="./assets/heuralux-compass.png" alt="Horizon Compass mark" width="120">
 </div>
 
+<!--
 ## Get in touch
 
 If there's a problem you think software might solve, we'd like to hear about it! **[contact@heuralux.org](mailto:contact@heuralux.org)**
+--> 
 
 <br>
 
