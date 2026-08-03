@@ -53,12 +53,12 @@ them as works in progress rather than finished products.
 <div align="center">
 
 <a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="145" alt="Daily Digest"></a>
+<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="145" alt="Activity Planner"></a>
 <a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="145" alt="Meal Planner"></a>
 <a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="145" alt="Newsletter"></a>
-<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="145" alt="Outfittr"></a>
-<a href="https://github.com/heuralux/activity-planner"><img src="./assets/ad-activity-planner.png" width="145" alt="Activity Planner"></a>
-<a href="https://github.com/heuralux/placard"><img src="./assets/ad-placard.png" width="145" alt="Placard"></a>
 <a href="https://github.com/heuralux/printwright"><img src="./assets/ad-printwright.png" width="145" alt="Printwright"></a>
+<a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="145" alt="Outfittr"></a>
+<a href="https://github.com/heuralux/placard"><img src="./assets/ad-placard.png" width="145" alt="Placard"></a>
 
 </div>
 
