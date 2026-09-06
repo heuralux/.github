@@ -15,10 +15,11 @@
 
 ## Welcome to Heuralux
 
-Heuralux builds practical AI, machine-learning, and data tools for people who need capable software but don’t have a software engineering team on call. The goal is simple: take a real problem and build something that actually helps. No buzzwords, and no AI for its own sake.
+Heuralux builds practical software, AI/ML, and data tools for people who don’t have a software engineering team on call. The goal is to build meaningful things that are useful and intuitive. No buzzwords, and no AI for its own sake.
 
 <br>
 
+<!—-
 ## What We Do
 
 Heuralux works alongside people who know their field inside and out and turn that
@@ -36,6 +37,7 @@ That might look like:
   button.
 - **A clear assessment** of whether AI is the right fit at all — sometimes it
   isn't, and we'll tell you so.
+—>
 
 <!--
 If you'd like to find out whether something is possible, or simply where to
@@ -46,7 +48,7 @@ start, we're glad to talk it through. **[contact@heuralux.org](mailto:contact@he
 
 ## Open-source tools
 
-We also develop open-source tools; both for the utility they provide and
+We develop privacy-conscious open-source tools; both for the utility they provide and
 to keep exploring the art of the possible. These are early and still evolving, so treat
 them as works in progress rather than finished products.
 
