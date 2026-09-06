@@ -38,7 +38,6 @@ That might look like:
 * **A clear assessment** of whether AI is the right fit at all; sometimes it
   isn't, and we'll tell you so.
 —->
-
 <!--
 If you'd like to find out whether something is possible, or simply where to
 start, we're glad to talk it through. **[contact@heuralux.org](mailto:contact@heuralux.org)**
