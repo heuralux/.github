@@ -47,8 +47,7 @@ start, we're glad to talk it through. **[contact@heuralux.org](mailto:contact@he
 
 ## Open-source tools
 
-We develop privacy-conscious open-source tools; both for the utility they provide and
-to keep exploring the art of the possible. These are early and still evolving, so treat
+Our open-source tools are privacy-conscious; except when using frontier LLMs, data is generally saved and processed on your local device and new cloud surfaces are minimized. These are early and still evolving, so view
 them as works in progress rather than finished products.
 
 <div align="center">
