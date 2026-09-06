@@ -19,8 +19,7 @@ Heuralux builds practical software, AI/ML, and data tools for people who don’t
 
 <br>
 
-<!—-
-
+<!--
 ## What We Do
 
 Heuralux works alongside people who know their field inside and out and turn that
@@ -30,13 +29,13 @@ problem calls for.
 
 That might look like:
 
-- **A model** that forecasts demand, pricing, or inventory from the data you
+* **A model** that forecasts demand, pricing, or inventory from the data you
   already have.
-- **An assistant** that handles the repetitive, time-consuming parts of your
+* **An assistant** that handles the repetitive, time-consuming parts of your
   week.
-- **A small app or script** that turns hours of manual work into the press of a
+* **A small app or script** that turns hours of manual work into the press of a
   button.
-- **A clear assessment** of whether AI is the right fit at all — sometimes it
+* **A clear assessment** of whether AI is the right fit at all; sometimes it
   isn't, and we'll tell you so.
 —->
 
