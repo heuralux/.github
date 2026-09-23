@@ -15,7 +15,7 @@
 
 ## Welcome to Heuralux
 
-Heuralux builds practical software, AI/ML, and data tools for people who don’t have a software engineering team on call. The goal is to build meaningful things that are useful and intuitive. No buzzwords, and no AI for its own sake.
+Heuralux builds practical software, AI/ML, and data tools. The goal is to build meaningful things that are useful and intuitive. No buzzwords, and no AI for its own sake.
 
 <br>
 
