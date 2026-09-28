@@ -33,6 +33,10 @@ need. No buzzwords, and no AI for its own sake.
 
 ## Projects
 
+### Claude Code plugins
+
+Skills and workflows that run inside Claude Code.
+
 <div align="center">
 
 <a href="https://github.com/heuralux/daily-digest"><img src="./assets/ad-daily-digest.png" width="145" alt="Daily Digest"></a>
@@ -40,8 +44,28 @@ need. No buzzwords, and no AI for its own sake.
 <a href="https://github.com/heuralux/meal-planner"><img src="./assets/ad-meal-planner.png" width="145" alt="Meal Planner"></a>
 <a href="https://github.com/heuralux/newsletter"><img src="./assets/ad-newsletter.png" width="145" alt="Newsletter"></a>
 <a href="https://github.com/heuralux/printwright"><img src="./assets/ad-printwright.png" width="145" alt="Printwright"></a>
+
+</div>
+
+### Home automation
+
+Standalone tools for running things around the house.
+
+<div align="center">
+
 <a href="https://github.com/heuralux/outfittr"><img src="./assets/ad-outfittr.png" width="145" alt="Outfittr"></a>
 <a href="https://github.com/heuralux/placard"><img src="./assets/ad-placard.png" width="145" alt="Placard"></a>
+
+</div>
+
+### Exploration
+
+Windows onto the sky and the wild.
+
+<div align="center">
+
+<a href="https://github.com/heuralux/starward"><img src="./assets/ad-starward.png" width="145" alt="Starward"></a>
+<a href="https://github.com/heuralux/wilderlight"><img src="./assets/ad-wilderlight.png" width="145" alt="Wilderlight"></a>
 
 </div>
 
