@@ -69,6 +69,16 @@ Windows onto the sky and the wild.
 
 </div>
 
+### Research
+
+Tools for keeping up with, and making sense of, the scientific literature.
+
+<div align="center">
+
+<a href="https://github.com/heuralux/paper-research"><img src="./assets/ad-paper-research.png" width="145" alt="Paper Research"></a>
+
+</div>
+
 ## Background
 
 I hold a PhD in Engineering and a Master's in Computational and Information
